@@ -3,4 +3,5 @@ function sayHi(name) {
 }
 /* this script, adds two strings together */
 /* another comment */
+/*vadd test */
 module.exports = sayHi
